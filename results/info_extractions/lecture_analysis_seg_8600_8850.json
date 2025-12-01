@@ -1,0 +1,49 @@
+{
+    "title": "What's the problem of duplicate data?",
+    "video_segment": "143:20 - 147:29",
+    "content_flow": [
+        {
+            "content_type": "slide_description",
+            "text": "The presence of duplicate data could lead to misinformation. For example, individuals are often swayed by the \"majority,\" e.g., [image of people marching in formation]."
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "or even marching off to war. We're all programmed. It's so easy for you to conform. And most of the time, it's something something. This is a camera experiment to see if this woman would stand up at the sound of this tone. Simply because everyone else is. You might not think, you'd never go along with this. Or would you?",
+            "timestamp": "143:20"
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "The behavior, even though they're actor, they act differently after just three beats and without knowing why she's doing it. This woman is now conforming perfectly to the group. But what happens if we take the group away?",
+            "timestamp": "143:50"
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "Okay, now she's alone. The crowd is gone and nobody is watching her, except our hidden cameras. What do you think she'll do?",
+            "timestamp": "143:32"
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "She's now conforming to the rules of the group without them even being there. What happens when we introduce another outsider who doesn't know the rules? Have a seat and they'll be up in just a couple minutes. Thanks so much.",
+            "timestamp": "144:40"
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "Think she'll teach the new guy what to do? We kept the cameras rolling as more unsuspecting patients arrived. And slowly but surely, what began as a random rule for this woman has now become the social norm for everyone in this waiting room.",
+            "timestamp": "145:23"
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "Okay. So then it's fun, right? You can imagine your data acting just like this variety. Why remove the duplicate data are important? Because right now in this world, there are so many people want to spread the wrong information to misguide other people. But if you are the people try to produce that information, you need to know which one is a correct one, which is a clean one. Remove the duplicate. Otherwise, you will probably will have the same misinformation like people want to deceive you. So it's very important one for you to know. And that happen a lot in our current time with social media and with the help from the GAI. You can now there's one guy that can issue one prompt and produce so many information have the same concept and then make people to feel it's not the same. So your time to be more difficult than my time. Good luck.",
+            "timestamp": "146:10"
+        },
+        {
+            "content_type": "slide_description",
+            "text": "Take Home Exercise: Provide Examples of Data Quality Issues. [QR Code]"
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "Okay. Then this is the QR code, but you don't need to do that right now.",
+            "timestamp": "147:20"
+        }
+    ]
+}
